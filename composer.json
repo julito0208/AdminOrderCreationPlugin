@@ -20,8 +20,6 @@
     ],
     "require": {
         "php": "^7.2",
-
-        "sylius/sylius": "^1.6",
         "friendsofsymfony/jsrouting-bundle": "^2.2"
     },
     "require-dev": {
